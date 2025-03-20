@@ -1,7 +1,6 @@
 ## Ornithopter
 
-Σχεδίασα ένα ορνιθόπτερο εμπνευσμένο από τον Leonardo da Vinci χρησιμοποιώντας το Autodesk Fusion 360. Παρατίθενται τα αρχεία .STL για εκτύπωση ή περαιτέρω επεξεργασία
-
+I designed an ornithopter inspired by Leonardo da Vinci using Autodesk Fusion 360. The .STL files are listed for printing or further editing.
 <div style="text-align:center;">
     <img src="src/3.png" alt="3" width="800" >
 </div>
